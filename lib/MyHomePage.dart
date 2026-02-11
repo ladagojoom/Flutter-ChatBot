@@ -28,7 +28,7 @@ class _MyHomePageState extends State<MyHomePage> {
         backgroundColor: Theme.of(context).colorScheme.background,
         elevation: 1,
 
-        // FIXED: Keep only the left-side Row (logo + text) inside title
+        // FIXED: Keep only the left-side Row (logo + text) inside title 
         title: Row(
           children: [
             Image.asset(
