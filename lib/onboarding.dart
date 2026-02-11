@@ -1,3 +1,4 @@
+//onboarding.dart Board Widget for ChatBot.
 import 'package:chat_app/MyHomePage.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter/material.dart';
